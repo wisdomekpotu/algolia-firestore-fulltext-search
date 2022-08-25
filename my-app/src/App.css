@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+.title {
+  margin: auto;
+  text-align: center;
+  width: 40%;
+  margin-top: 100px;
+  margin-bottom: 10px;
+}
+
+.searchbox {
+  margin-top: 1px;
+  margin: auto;
+  width: 40%;
+}
+
+.poweredby {
+  justify-content: right;
+  margin: auto;
+  width: 40%;
+}
+
+.hits {
+  margin: auto;
+  width: 40%;
+  border-style: solid;
+  border-width: medium;
+}
